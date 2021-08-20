@@ -41,7 +41,14 @@ li a {
 }
 
 body {
-    display: grid;
+  display: grid;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+h4 {
+  text-align: center;
+  padding: 20px;
 }
 
 .flexbox-container {
